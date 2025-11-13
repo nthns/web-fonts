@@ -1,15 +1,17 @@
 @font-face {
-  font-family: 'fa-regular';
-  src: url('https://nthns.github.io/web-fonts/fa-regular-400.woff2') format('woff2'),
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
+    font-family: "fa-regular";
+    src: url("https://nthns.github.io/web-fonts/fa-regular-400.woff2")
+        format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
 }
 
 @font-face {
-  font-family: 'fa-solid';
-  src: url('https://nthns.github.io/web-fonts/fa-solid-900.woff2') format('woff2'),
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
+    font-family: "fa-solid";
+    src: url("https://nthns.github.io/web-fonts/fa-solid-900.woff2")
+        format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
 }
