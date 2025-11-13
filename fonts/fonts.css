@@ -15,3 +15,19 @@
     font-style: normal;
     font-display: block;
 }
+
+.fa-solid {
+    font-family: "fa-solid";
+    font-style: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-regular {
+    font-family: "fa-regular";
+    font-style: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
